@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/talk01" android:duration="100"/>
+    <item android:drawable="@drawable/talk02" android:duration="100"/>
+    <item android:drawable="@drawable/talk03" android:duration="100"/>
+    <item android:drawable="@drawable/talk04" android:duration="100"/>
+    <item android:drawable="@drawable/talk05" android:duration="100"/>
+    <item android:drawable="@drawable/talk06" android:duration="100"/>
+    <item android:drawable="@drawable/talk07" android:duration="100"/>
+    <item android:drawable="@drawable/talk08" android:duration="100"/>
+    <item android:drawable="@drawable/talk09" android:duration="100"/>
+    <item android:drawable="@drawable/talk10" android:duration="100"/>
+    <item android:drawable="@drawable/talk11" android:duration="100"/>
+    <item android:drawable="@drawable/talk12" android:duration="100"/>
+    <item android:drawable="@drawable/talk13" android:duration="100"/>
+    <item android:drawable="@drawable/talk14" android:duration="100"/>
+    <item android:drawable="@drawable/talk15" android:duration="100"/>
+    <item android:drawable="@drawable/talk16" android:duration="100"/>
+    <item android:drawable="@drawable/talk17" android:duration="100"/>
+    <item android:drawable="@drawable/talk18" android:duration="100"/>
+
+</animation-list>
